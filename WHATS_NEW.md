@@ -1,6 +1,6 @@
 # What's New in Groktor
 
-**December 2024 Update**
+**December 2025 Update**
 
 ---
 
