@@ -1,6 +1,6 @@
 # Medical Image Analysis (Beta)
 
-> **Status:** Beta | **Version:** 1.0.0 | **Last Updated:** December 2024
+> **Status:** Beta | **Version:** 1.0.0 | **Last Updated:** December 2025
 
 ## Overview
 
