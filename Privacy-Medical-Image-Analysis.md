@@ -1,6 +1,6 @@
 # Privacy Policy: Medical Image Analysis
 
-> **Last Updated:** December 2024 | **Feature Status:** Beta
+> **Last Updated:** December 2025 | **Feature Status:** Beta
 
 ## Overview
 
